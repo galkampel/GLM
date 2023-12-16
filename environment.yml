@@ -1,0 +1,17 @@
+name: ib_advanced_regression
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - black-jupyter
+  - jupyterlab=3.4.3
+  - isort=5.10.1
+  - jupyter=1.0.0
+  - jupyter_contrib_nbextensions=0.5.1
+  - jupyter_nbextensions_configurator=0.4.1
+  - scikit-learn
+  - statsmodels
+  - seaborn
+  - bambi=0.12
+  - rise
+prefix: /home/studio-lab-user/.conda/envs/ib_advanced_regression
